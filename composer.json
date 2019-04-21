@@ -1,0 +1,13 @@
+{
+    "name": "southcoast/cache",
+    "description": "Caching class for rapid php development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Corné de Jong",
+            "email": "corne.dejong@me.com"
+        }
+    ],
+    "require": {}
+}
